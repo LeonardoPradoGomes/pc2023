@@ -1,8 +1,8 @@
- body {
- 	
- }
+body {
+	background: #CCCCCC;	
+}
 
-#banner {
+.banner {
        width:100%;
 }
 
@@ -26,7 +26,7 @@ p{
 }
  
  #missao{
-     style:"font-size: 20px;"
+     font-size: 20px;
  }
 
 .em strong{
