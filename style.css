@@ -7,7 +7,7 @@
 }
 
 .principal{
-       background: #CCCCCC
+       background: #CCCCCC;
        padding:30%;
 }
 
@@ -26,10 +26,10 @@ p{
 }
  
  #missao{
-     style="font-size: 20px;"
+     style:"font-size: 20px;"
  }
 
-em strong{
+.em strong{
 	color: #FF0000;
 } 
 
