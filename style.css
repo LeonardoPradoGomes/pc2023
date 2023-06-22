@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-       width:100%;
+       width:80%;
 }
 
 .principal{
@@ -15,7 +15,9 @@ body {
 	padding-left: 20px;
 }
 
-
+.texto{
+	font-size: 80px;
+}
 
 .titulo-centralizado{
 	text-align: center;
