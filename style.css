@@ -1,7 +1,17 @@
 body {
 	background: #CCCCCC;	
 }
-
+.cabec{
+	width: 1440px;
+height: 182px;
+flex-shrink: 0;
+background: #CA7C43;
+}
+.cabec-banner{
+	width: 295px;
+height: 166px;
+flex-shrink: 0;
+}
 #banner {
        width:80%;
 }
