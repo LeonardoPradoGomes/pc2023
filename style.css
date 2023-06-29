@@ -54,8 +54,8 @@ line-height: normal;
 	font-size: 30px;
 }
 .principal-texto {
-	position: absolute;
-	display: flex;
+position: absolute;
+display: flex;
 width: 1005px;
 height: 370px;
 flex-direction: column;
