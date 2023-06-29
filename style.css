@@ -89,7 +89,14 @@ p{
 
 .beneficios{
 	background: #CCCCCC;
-	padding: 20px;
+	padding: 20px
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
 	display: flex;
 width: 1276px;
 flex-direction: column;
@@ -100,13 +107,6 @@ font-family: Inter;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-}
-
-ul{
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
 }
 
 .imagembanner2{
