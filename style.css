@@ -2,8 +2,11 @@ body {
 	background: #CCCCCC;	
 }
 header{
+	left: 550px;
+	top: 25px;
+	position: absolute;
 	width: 1440px;
-height: 182px;
+height: 50px;
 flex-shrink: 0;
 background: #CA7C43;
 }
