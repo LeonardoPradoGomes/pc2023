@@ -1,8 +1,8 @@
-body {
-background: linear-gradient(180deg, rgba(202, 108, 67, 0.10) 0%, rgba(202, 108, 67, 0.00) 0.01%, rgba(202, 124, 67, 0.94) 63.54%);
-width: 1440px;
-height: 182px;
-flex-shrink: 0;
+body { 
+	width: 1439px;
+	height: 263px;
+}
+
 
 }
 header{
