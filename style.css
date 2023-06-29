@@ -1,8 +1,12 @@
 body {
-	width: 1439px;
+width: 1439px;
 height: 263px;
 flex-shrink: 0;
-background: linear-gradient(180deg, rgba(202, 108, 67, 0.10) 0%, rgba(202, 108, 67, 0.00) 0.01%, rgba(202, 124, 67, 0.94) 63.54%);	
+background: linear-gradient(180deg, rgba(202, 108, 67, 0.10) 0%, rgba(202, 108, 67, 0.00) 0.01%, rgba(202, 124, 67, 0.94) 63.54%);
+width: 1440px;
+height: 182px;
+flex-shrink: 0;
+
 }
 header{
 	left: 550px;
@@ -95,10 +99,16 @@ p{
 }
 
 ul{
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
+	display: flex;
+width: 1276px;
+flex-direction: column;
+flex-shrink: 0;
+color: #000;
+font-size: 17.814px;
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 
 .imagembanner2{
