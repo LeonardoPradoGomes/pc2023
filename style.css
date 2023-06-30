@@ -34,7 +34,7 @@ flex-shrink: 0;
 	font-size: 20px;
 	font-family: Inter;
 	background: linear-gradient(180deg, #CA7C43 0%, rgba(202, 196, 67, 0.00) 100%);
-       
+    display: block;  
 }
 
 .titulo-principal{
