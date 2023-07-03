@@ -1,11 +1,10 @@
 body { 
     width: 1440px;
-height: 388px;
-flex-shrink: 0;
+
 }
 
 header{
-	left: 550px;
+	
 	top: 25px;
 	position: absolute;
 	width: 1440px;
@@ -90,6 +89,9 @@ p{
 }
 
 .beneficios{
+	position: absolute;
+	top: 550px;
+	width:1440px;
 	background: #CCCCCC;
 	padding: 20px;
 	display: block;
