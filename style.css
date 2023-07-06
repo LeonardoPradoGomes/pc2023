@@ -16,7 +16,7 @@ background: #CA7C43;
 	width: 1440px;
 height: 182px;
 flex-shrink: 0;
-background: #CA7C43;
+background: linear-gradient(180deg, #CA7C43 50%, rgba(202, 124, 67, 0.00) 100%);
 }
 .cabec-banner{
 	width: 295px;
