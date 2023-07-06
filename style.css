@@ -10,7 +10,7 @@ header{
 	width: 1440px;
 height: 50px;
 flex-shrink: 0;
-background: #CA7C43;
+background: linear-gradient(180deg, rgba(202, 124, 67, 0.86) 100%);
 }
 .cabec{
 	width: 1440px;
