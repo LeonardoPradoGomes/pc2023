@@ -1,0 +1,138 @@
+*{
+	margin: 0;
+	padding: 0;
+	user-select: none;
+}
+
+.cabec {
+	position: relative;
+	width: 100%;
+	height: 166px;
+	background: #CA7C43;
+}
+
+.titulo-principal {
+	text-align: center;
+	color: whitesmoke;
+	padding-top: 15px;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.cabec-banner {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 295px;
+}
+
+.menu{
+	position: fixed;
+	height: 100%;
+	width: 295px;
+	background: linear-gradient(180deg, #CA7C43 0%, rgba(202, 196, 67, 0.00) 100%);
+	text-align: center;
+}
+
+.menu li{
+	padding-bottom: 30px;
+	list-style: none;
+}
+
+.menu li:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.menu h3{
+	padding: 30px;
+	border-style: double;
+	border-radius: 15px;
+}
+
+.menu h3:hover{
+	cursor: pointer;
+	text-decoration: underline overline;
+}
+
+main{
+	position: relative;
+	height: calc(100% - 166px);
+	background: linear-gradient(180deg, #CA7C43 0%, rgba(202, 196, 67, 0.00) 100%);
+}
+
+.principal h2{
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+
+.span-nome-mercado{
+	font-weight: bolder;
+}
+
+.span-text02{
+	font-weight: bolder;
+	font-style: italic;
+}
+
+.principal{
+	float: right;
+	width: calc(100% - 295px);
+	height: 100%;
+	cursor: text;
+	text-align: justify;
+}
+
+/*.principal {
+	color: #000;
+	text-align: center;
+	font-size: 20px;
+	font-family: Inter;
+	background: linear-gradient(180deg, #CA7C43 0%, rgba(202, 196, 67, 0.00) 100%);
+	display: block;
+}
+
+.principal-texto {
+	position: absolute;
+	display: flex;
+	width: 1440px;
+	height: 388px;
+	flex-shrink: 0;
+	flex-direction: column;
+	color: #000;
+	text-align: center;
+	font-size: 20px;
+	font-family: Inter;
+
+}
+
+.sobre {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-size: italic;
+}
+
+.beneficios {
+	background: #CCCCCC;
+	padding: 20px;
+	display: block;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}*/
