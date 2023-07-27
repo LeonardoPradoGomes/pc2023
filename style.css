@@ -85,7 +85,13 @@ p{
 } 
 
 .itens {
-	font-size: italic;
+	width: 1276px;
+	color: #000;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 
 .beneficios{
