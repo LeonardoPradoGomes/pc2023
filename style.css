@@ -96,7 +96,7 @@ line-height: normal;
 
 .beneficios{
 	width: 1440px;
-height: 455px;
+
 flex-shrink: 0;
 background: linear-gradient(180deg, rgba(202, 108, 67, 0.00) 0%, rgba(202, 124, 67, 0.94) 61.98%);
 }
